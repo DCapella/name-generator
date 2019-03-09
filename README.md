@@ -26,6 +26,6 @@ Index is the main program built with this pusedo code:
 * Idea came from a python book (Impractical Python Projects).
   - However, the code is mine.
 
-<div class="footer">
-I am an enthusiastic programmer who is attending General Assembly and looking forward becoming a Data Engineer.
-</div>
+<sub><sub>
+I am an enthusiastic programmer who is attending General Assembly and looking forward to becoming a Data Engineer.
+</sub></sub>
