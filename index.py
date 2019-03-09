@@ -46,17 +46,3 @@ def main():
 
 
 main()
-
-# Ask for male or female GENDER
-
-# grab random first name FIRST
-
-# grab random last name LAST
-
-# \n\n
-# print name and file=sys.stderr
-# \n\n
-
-# ask them if they want to play again
-
-# if no then say enter to exit
